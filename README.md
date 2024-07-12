@@ -4,3 +4,5 @@ This Project Falls under the field of Digital Image Processing,
   * Main Code file i.e. ipynb file conataining main functions is also attached into it.
   * The output of project is to categorize the unknown images into two categories namely down-syndrome and without down-syndrome
   * Which are stated as "Standard" and "NonStandard" into the dataset files.
+
+This Repository for above project also contains "A Project Report with all the required details..."
